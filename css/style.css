@@ -11,13 +11,13 @@
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 .mdl-ripple {
-  background: #000;
+  background: #ffffff;
   opacity: 0.001;
 }
 
 body {
-  background-color: cornflowerblue;
+  background-color: rgb(237, 100, 100);
 }
 
 p {
-  color: white;
+  color: rgb(255, 0, 251);
